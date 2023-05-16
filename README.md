@@ -1,4 +1,4 @@
-### Olá, sou Bernardo, tenho 22 anos e sou apaixonado por tecnologia 😄
+### Olá, sou Bernardo, tenho 23 anos e sou apaixonado por tecnologia 😄
 
 <div align="center">
   <a href="https://github.com/bernardoraffide">
